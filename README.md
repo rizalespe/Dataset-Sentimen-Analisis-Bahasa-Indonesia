@@ -11,10 +11,10 @@ Analisis sentimen adalah salah satu cabang penelitian dari Text Mining yang berg
 File: [dataset_tweet_sentiment_cellular_service_provider.csv ](https://github.com/rizalespe/Indonesian-Sentiment-Analysis-Dataset/blob/master/dataset_tweet_sentiment_cellular_service_provider.csv "dataset_tweet_sentiment_cellular_service_provider.csv ")
 
 Detail: Dataset analisis sentimen diambil pada situs jejaring sosial Twitter terkait dengan penyedia layanan seluler di Indonesia sejumlah 300 tweet. Dataset memiliki 2 kelas sentimen yaitu `positive` dan `negative`. Sebelum dipublikasikan, dataset ini telah kami lakukan beberapa praproses sebagai berikut:
-	- Mengganti nama/identitas penyedia layanan dengan tag `<PROVIDER_NAME>`
-	- Mengganti alamat URL dengan tag `<URL>`
-	- Mengganti @mention pengguna dengan tag `<USER_MENTION>`
-	- Mengganti nama produk dengan tag `<PRODUCT_NAME>`
+- Mengganti nama/identitas penyedia layanan dengan tag `<PROVIDER_NAME>`
+- Mengganti alamat URL dengan tag `<URL>`
+- Mengganti @mention pengguna dengan tag `<USER_MENTION>`
+- Mengganti nama produk dengan tag `<PRODUCT_NAME>`
 
 
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi ini:**
