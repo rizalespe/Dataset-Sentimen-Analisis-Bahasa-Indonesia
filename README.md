@@ -29,6 +29,11 @@ Instagram merupakan media sosial yang paling populer pada zaman sekarang. Penggu
 **Dataset:**
 [dataset_komentar_instagram_cyberbullying.csv](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_komentar_instagram_cyberbullying.csv "dataset_komentar_instagram_cyberbullying.csv")
 
+Detail: Dataset analisis sentimen dikumpulkan dari komentar sosial media Instagram dan dilabeli secara manual dengan label "positive" dan "negative". Jumlah total dataset terdapat 400 komentar dengan pembagian masing-masing kelas label sejumlah 200 komentar. Sebelum dipublikasikan, dataset ini telah kami lakukan beberapa praproses sebagai berikut:
+- Mengganti setiap username (`@username`) yang ada di teks komentar dengan tag `<USERNAME>`. Kode regular expression untuk mendeteksi kemunculan username adalah:
+``` (?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9-_]+) ```
+
+
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
 
 
