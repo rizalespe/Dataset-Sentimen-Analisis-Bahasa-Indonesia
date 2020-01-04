@@ -16,7 +16,7 @@ Analisis sentimen merupakan cabang dari text mining, fokus utamanya adalah menga
 [dataset_tweet_sentiment_pilkada_DKI_2017.csv ](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_tweet_sentiment_pilkada_DKI_2017.csv "dataset_tweet_sentiment_pilkada_DKI_2017.csv ")
 
 Detail: Dataset analisis sentimen dikumpulkan dari situs jejaring sosial Twitter terkait dengan pelaksanaan Pemilihan Gubernur DKI Jakarta Tahun 2017 sejumlah 900 dokumen tweet dari 3 pasangan calon yaitu Agus-Sylvi, Ahok-Djarot, & Anies-Sandi. Dataset memiliki 2 kelas sentimen yaitu `positive` dan `negative`. Sebelum dipublikasikan, dataset ini telah kami lakukan preproses sebagai berikut:
-- Mengganti emoticon yang ada dengan tag/penanda spesial seperti pada file [master emoticon](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/mater_emoji.csv "Master Emoji") 
+- Mengganti emoticon yang ada dengan tag/penanda spesial seperti pada file [Master Emoji](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/mater_emoji.csv "Master Emoji") 
 
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
 
