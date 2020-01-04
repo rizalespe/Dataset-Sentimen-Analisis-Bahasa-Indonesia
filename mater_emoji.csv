@@ -1,0 +1,166 @@
+﻿ID,Emoji,Sentiment,Makna Emoji,Special Tag
+1,😛,negative,Face With Stuck-Out Tongue, <FACE WITH STUCK-OUT TOUNGES>
+2,😠,negative,Angry Face,<Angry Face>
+3,💣,negative,Bomb,<Bomb>
+4,💔,negative,Broken Heart,<Broken Heart>
+5,😕,negative,Confused Face,<Confused Face>
+6,😞,negative,Disappointed Face,<Disappointed Face>
+7,😑,negative,Expressionless Face,<Expressionless Face>
+8,😋,negative,Face Savouring Delicious Food,<Face Savouring Delicious Food>
+9,😱,negative,Face Screaming in Fear,<Face Screaming in Fear>
+10,😓,negative,Face With Cold Sweat,<Face With Cold Sweat>
+11,😮,negative,Face With Open Mouth,<Face With Open Mouth>
+12,😤,negative,Face With Steam From Nose,<Face With Steam From Nose>
+13,😝,negative,Face With Stuck-Out Tongue & Closed Eyes,<Face With Stuck-Out Tongue & Closed Eyes>
+14,😶,negative,Face Without Mouth,<Face Without Mouth>
+15,🔥,negative,Fire,<Fire>
+16,☹,negative,Frowning Face,<Frowning Face>
+17,😬,negative,Grimacing Face,<Grimacing Face>
+18,⚡,negative,High Voltage,<High Voltage>
+19,🤥,negative,Lying Face,<Lying Face>
+20,😣,negative,Persevering Face,<Persevering Face>
+21,🙇,negative,Person Bowing,<Person Bowing>
+22,🏃,negative,Person Running,<Person Running>
+23,🐽,negative,Pig Nose,<Pig Nose>
+24,😡,negative,Pouting Face,<Pouting Face>
+25,🙈,negative,See-No-Evil Monkey,<See-No-Evil Monkey>
+26,🙁,negative,Slightly Frowning Face,<Slightly Frowning Face>
+27,🙊,negative,Speak-No-Evil Monkey,<Speak-No-Evil>
+28,🤔,negative,Thinking Face,<Thinking Face>
+29,👎,negative,Thumbs Down,<Thumbs Down>
+30,👅,negative,Tongue,<Tongue>
+31,😩,negative,Weary Face,<Weary Face>
+32,🤐,negative,Zipper-Mouth Face,<Zipper-Mouth Face>
+33,😐,negative,Neutral Face,<Neutral Face>
+34,🙄,negative,Face With Rolling Eyes,<Face With Rolling Eyes>
+35,😏,negative,Smirking Face,<Smirking Face>
+36,😥,negative,Disappointed but Relieved Face,<Disappointed but Relieved Face>
+37,😯,negative,Hushed Face,<Hushed Face>
+38,😪,negative,Sleepy Face,<Sleepy Face>
+39,😫,negative,Tired Face,<Tired Face>
+40,😴,negative,Sleeping Face,<Sleeping Face>
+41,😌,negative,Relieved Face,<Relieved Face>
+42,😜,negative,Face With Stuck-Out Tongue & Winking EyeNegatif,<Face With Stuck-Out Tongue & Winking EyeNegatif>
+43,🤤,negative,Drooling Face,<Drooling Face>
+44,😒,negative,Unamused Face,<Unamused Face>
+45,😔,negative,Pensive Face,<Pensive Face>
+46,🙃,negative,Upside-Down Face,<Upside-Down Face>
+47,🤑,negative,Money-Mouth Face,<Money-Mouth Face>
+48,😲,negative,Astonished Face,<Astonished Face>
+49,😖,negative,Confounded Face,<Confounded Face>
+50,😟,negative,Worried Face,<Worried Face>
+51,😢,negative,Crying Face,<Crying Face>
+52,😭,negative,Loudly Crying Face,<Loudly Crying Face>
+53,😦,negative,Frowning Face With Open Mouth,<Frowning Face With Open Mouth>
+54,😧,negative,Anguished Face,<Anguished Face>
+55,😨,negative,Fearful Face,<Fearful Face>
+56,😰,negative,Face With Open Mouth & Cold Sweat,<Face With Open Mouth & Cold Sweat>
+57,😳,negative,Flushed Face,<Flushed Face>
+58,😵,negative,Dizzy Face,<Dizzy Face>
+59,😷,negative,Face With Medical Mask,<Face With Medical Mask>
+60,🤒,negative,Face With Thermometer,<Face With Thermometer>
+61,🤕,negative,Face With Head-Bandage,<Face With Head-Bandage>
+62,🤢,negative,Nauseated Face,<Nauseated Face>
+63,🤧,negative,Sneezing Face,<Sneezing Face>
+64,🤓,negative,Nerd Face,<Nerd Face>
+65,😈,negative,Smiling Face With Horns,<Smiling Face With Horns>
+66,👿,negative,Angry Face With Horns,<Angry Face With Horns>
+67,👹,negative,Ogre,<Ogre>
+68,👺,negative,Goblin,<Goblin>
+69,💀,negative,Skull,<Skull>
+70,☠,negative,Skull and Crossbones,<Skull and Crossbones>
+71,👻,negative,Ghost,<Ghost>
+72,💩,negative,Pile of Poo,<Pile of Poo>
+73,🙀,negative,Weary Cat Face,<Weary Cat Face>
+74,😿,negative,Crying Cat Face,<Crying Cat Face>
+75,😾,negative,Pouting Cat Face,<Pouting Cat Face>
+76,🙉,negative,Hear-No-Evil Monkey,<Hear-No-Evil Monkey>
+77,🙎,negative,Person Pouting,<Person Pouting>
+78,🙅,negative,Person Gesturing No,<Person Gesturing No>
+79,💁,negative,Person Tipping Hand,<Person Tipping Hand>
+80,🤦,negative,Person Facepalming,<Person Facepalming>
+81,🤷,negative,Person Shrugging,<Person Shrugging>
+82,🤞,negative,Crossed Fingers,<Crossed Fingers>
+83,📉,negative,Chart Decreasing,<Chart Decreasing>
+84,⛔,negative,No Entry,<No Entry>
+85,✖,negative,Heavy Multiplication X,<Heavy Multiplication X>
+86,❌,negative,Cross Mark,<Cross Mark>
+87,❎,negative,Cross Mark Button,<Cross Mark Button>
+88,👌,positive,OK Hand, <OK HAND>
+89,👊,positive,Oncoming Fist, <Oncoming Fist>
+90,🤘,positive,Sign of the Horns, <SIGN OF THE HORNS>
+91,😍,positive,Smiling Face With Heart-Eyes, <SMILING FACE WITH HEART-EYES>
+92,😊,positive,Smiling Face With Smiling Eyes, <Smiling Face With Smiling Eyes>
+93,👍,positive,Thumbs Up, <THUMBS UP>
+94,😹,positive,Cat Face With Tears of Joy,<Cat Face With Tears of Joy>
+95,👏,positive,Clapping Hands,<Clapping Hands>
+96,😘,positive,Face Blowing a Kiss,<Face Blowing a Kiss>
+97,😂,positive,face with tears of joy,<FACE WITH TEARS OF JOY>
+98,🙏,positive,Folded Hands,<FOLDED HANDS>
+99,✊,positive,Glory,<Glory>
+100,🌟,positive,Glowing Star,<Glowing Star>
+101,😁,positive,grining face with smile eye,<grining face with smile eye>
+102,😀,positive,grining face,<grining face>
+103,💘,positive,Heart With Arrow,<Heart With Arrow>
+104,✔,positive,Heavy Check Mark,<Heavy Check Mark>
+105,🤗,positive,Hugging Face,<HUGGING FACE>
+106,😚,positive,Kissing Face With Closed Eyes,<Kissing Face With Closed Eyes>
+107,❤,positive,lovered,<lovered>
+108,🙋,positive,Person Raising Hand,<Person Raising Hand>
+109,🙌,positive,Raising Hands,<Raising Hands>
+110,🤣,positive,Rolling on the Floor Laughing,<Rolling on the Floor Laughing>
+111,😆,positive,Smiling Face With Open Mouth & Closed Eyes,<Smiling Face With Open Mouth & Closed Eyes>
+112,😅,positive,Smiling Face With Open Mouth & Cold Sweat,<Smiling Face With Open Mouth & Cold Sweat>
+113,😄,positive,Smiling Face With Open Mouth & Smiling Eyes,<Smiling Face With Open Mouth & Smiling Eyes>
+114,😎,positive,Smiling Face With Sunglasses,<Smiling Face With Sunglasses>
+115,🏆,positive,Trophy,<Trophy>
+116,✌,positive,Victory Hand,<Victory Hand>
+117,😃,positive,Smiling Face With Open Mouth,<Smiling Face With Open Mouth>
+118,😉,positive,Wingking Face,<Wingking Face>
+119,😗,positive,Kissing Face,<Kissing Face>
+120,😙,positive,Kissing Face With Smiling Eyes,<Kissing Face With Smiling Eyes>
+121,☺,positive,Smiling Face,<Smiling Face>
+122,🙂,positive,Slightly Smiling Face,<Slightly Smiling Face>
+123,😇,positive,Smiling Face With Halo,<Smiling Face With Halo>
+124,🤠,positive,Cowboy Hat Face,<Cowboy Hat Face>
+125,🤡,positive,Clown Face,<Clown Face>
+126,😺,positive,Smiling Cat Face With Open Mouth,<Smiling Cat Face With Open Mouth>
+127,😸,positive,Grinning Cat Face With Smiling Eyes,<Grinning Cat Face With Smiling Eyes>
+128,😻,positive,Smiling Cat Face With Heart-Eyes,<Smiling Cat Face With Heart-Eyes>
+129,😼,positive,Cat Face With Wry Smile,<Cat Face With Wry Smile>
+130,😽,positive,Kissing Cat Face With Closed Eyes,<Kissing Cat Face With Closed Eyes>
+131,👨‍🎓,positive,Man Student,<Man Student>
+132,👩‍🎓,positive,Woman Student,<Woman Student>
+133,✈,positive,Plane,<Plane>
+134,👼,positive,Baby Angel,<Baby Angel>
+135,👯🏻,positive,Woman With Bunny Ears Type-1-2,<Woman With Bunny Ears Type-1-2>
+136,🙆🏻,positive,Person Gesturing OK Light Skin Tone,<Person Gesturing OK Light Skin Tone>
+137,💆,positive,Person Getting Massage,<Person Getting Massage>
+138,🚶,positive,Person Walking,<Person Walking>
+139,💃,positive,Woman Dancing,<Woman Dancing>
+140,👭,positive,Two Women Holding Hands,<Two Women Holding Hands>
+141,💏,positive,Kiss,<Kiss>
+142,💑,positive,Couple With Heart,<Couple With Heart>
+143,💪,positive,Flexed Biceps,<Flexed Biceps>
+144,🖐,positive,Raised Hand With Fingers Splayed,<Raised Hand With Fingers Splayed>
+145,🤝,positive,Handshake,<Handshake>
+146,💋,positive,Kiss Mark,<Kiss Mark>
+147,💞,positive,Revolving Hearts,<Revolving Hearts>
+148,💝,positive,Heart With Ribbon,<Heart With Ribbon>
+149,💎,positive,Gem Stone,<Gem Stone>
+150,🐥,positive,Front-Facing Baby Chick,<Front-Facing Baby Chick>
+151,💐,positive,Bouquet,<Bouquet>
+152,🌹,positive,Rose,<Rose>
+153,🌛,positive,First Quarter Moon With Face,<First Quarter Moon With Face>
+154,🌜,positive,Last Quarter Moon With Face,<Last Quarter Moon With Face>
+155,🌝,positive,Full Moon With Face,<Full Moon With Face>
+156,🌞,positive,Sun With Face,<Sun With Face>
+157,⭐,positive,White Medium Star,<White Medium Star>
+158,🌈,positive,Rainbow,<Rainbow>
+159,🎀,positive,Ribbon,<Ribbon>
+160,🎁,positive,Wrapped Gift,<Wrapped Gift>
+161,💡,positive,Light Bulb,<Light Bulb>
+162,📈,positive,Chart Increasing,<Chart Increasing>
+163,💯,positive,Hundred Points,<Hundred Points>
+164,🆗,positive,OK Button,<OK Button>
+165,👨🏽‍❤️‍💋‍👩🏼,positive,Kiss - Man Medium Skin Tone Woman MediumLight Skin Tone,<Kiss - Man Medium Skin Tone Woman MediumLight Skin Tone>
