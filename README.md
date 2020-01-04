@@ -1,6 +1,6 @@
 ### Daftar Dataset
-
-[Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
+1. [Dataset sentimen Twitter layanan telekomunikasi Indonesia](#analisis-sentimen-tingkat-kepuasan-pengguna-penyedia-layanan-telekomunikasi-seluler-indonesia-pada-twitter-dengan-metode-support-vector-machine-dan-lexicon-based-features "Dataset sentimen Twitter layanan telekomunikasi Indonesia")
+2. [Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
 
 ------------
 
