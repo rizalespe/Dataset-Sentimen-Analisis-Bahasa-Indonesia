@@ -1,6 +1,6 @@
 ### Daftar Dataset
 
-[Dataset sentimen komentar Instagram Cyberbullying](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
+[Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
 
 ------------
 
