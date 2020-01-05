@@ -2,6 +2,7 @@
 1. [Dataset sentimen Twitter Pilkada DKI 2017](#analisis-sentimen-tentang-opini-pilkada-dki-2017-pada-dokumen-twitter-berbahasa-indonesia-menggunakan-naïve-bayes-dan-pembobotan-emoji "Dataset sentimen Twitter Pilkada DKI 2017")
 2. [Dataset sentimen Twitter layanan telekomunikasi Indonesia](#analisis-sentimen-tingkat-kepuasan-pengguna-penyedia-layanan-telekomunikasi-seluler-indonesia-pada-twitter-dengan-metode-support-vector-machine-dan-lexicon-based-features "Dataset sentimen Twitter layanan telekomunikasi Indonesia")
 3. [Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
+4. [Dataset sentimen Twitter tayangan televisi]
 
 ------------
 ### Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji
@@ -9,7 +10,7 @@
 
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
 
-Lestari, A.R.T., Perdana, R.S., & Fauzi, M.A., (2017). Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1718-1724. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/627
+Lestari, A.R.T., Perdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1718-1724. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/627
 
 
 **Abstrak**
@@ -75,3 +76,22 @@ Detail: Dataset analisis sentimen dikumpulkan dari komentar sosial media Instagr
 ```
 
 ------------
+### Analisis Sentimen Terhadap Tayangan Televisi Berdasarkan Opini Masyarakat pada Media Sosial Twitter menggunakan Metode K-Nearest Neighbor dan Pembobotan Jumlah Retweet
+
+
+>**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
+
+Nurjanah, W., PPerdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Terhadap Tayangan Televisi Berdasarkan Opini Masyarakat pada Media Sosial Twitter menggunakan Metode K-Nearest Neighbor dan Pembobotan Jumlah Retweet. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1750-1757. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/631
+
+
+**Abstrak**
+
+Twitter merupakan situs web layanan jejaring sosial yang banyak diminati pengguna internet sebagai media komunikasi dan mendapatkan informasi. Informasi yang terdapat pada Twitter berupa pertanyaan, opini atau komentar, baik yang bersifat positif maupun negatif. Analisis sentimen merupakan salah satu cabang penelitian dari Text Mining yang melakukan proses klasifikasi pada dokumen teks. Metode yang digunakan adalah K-Nearest Neighbor, dengan menambahkan fitur pembobotan jumlah retweet (non-tekstual). Pembobotan tekstual hasil dari klasifikasi K-Nearest Neighbor dan pembobotan non-tekstual dari pembobotan jumlah retweet akan digabungkan menggunakan  nilai konstanta tertentu (α dan β) untuk menghasilkan sentimen positif dan negatif. Data yang digunakan berupa opini masyarakat terhadap tayangan televisi pada twitter sejumlah 400. Dari hasil pengujian akurasi menggunakan pembobotan tekstual diperoleh 82,50%, menggunakan pembobotan non-tekstual 60%, dan menggunakan penggabungan keduanya 83,33% dengan nilai k=3 dan konstanta perkalian yang tepat α=0,8 dan β=0,2.
+
+**Artikel (Paper):** [PDF](http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/631/250 "PDF")
+
+**Dataset:**
+[dataset_tweet_sentimen_tayangan_tv.csv](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_tweet_sentimen_tayangan_tv.csv "dataset_tweet_sentimen_tayangan_tv.csv")
+
+Detail: Dataset terdiri dari 400 dokumen tweet dari 4 acara televisi yaitu HitamPutihTransTV, IndonesiaLawyersClubTvOne, KickAndyMetroTV, dan MataNajwaMetroTV. Dataset dilengkapi dengan informasi `Jumlah Retweet` dari masing-masing dokumen tweet tersebut.
+
