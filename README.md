@@ -95,3 +95,22 @@ Twitter merupakan situs web layanan jejaring sosial yang banyak diminati penggun
 
 Detail: Dataset terdiri dari 400 dokumen tweet dari 4 acara televisi yaitu HitamPutihTransTV, IndonesiaLawyersClubTvOne, KickAndyMetroTV, dan MataNajwaMetroTV. Dataset dilengkapi dengan informasi `Jumlah Retweet` dari masing-masing dokumen tweet tersebut.
 
+------------
+### Analisis Sentimen Tentang Opini Film Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naive Bayes Dengan Perbaikan Kata Tidak Baku
+
+
+>**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
+
+Antinasari, P., Perdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Tentang Opini Film Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naive Bayes Dengan Perbaikan Kata Tidak Baku. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1733-1741. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/629
+
+
+**Abstrak**
+
+Pertumbuhan media sosial yang sangat pesat tidak membuat Twitter ditinggalkan oleh penggunanya. Twitter merupakan salah satu media sosial yang memungkinkan penggunanya untuk melakukan interaksi, berbagi informasi, atau bahkan untuk mengutarakan perasaan dan opini, termasuk juga dalam mengutarakan opini film. Komentar atau Tweet mengenai film yang ada pada Twitter dapat dijadikan sebagai evaluasi dalam menonton film dan meningkatkan produksi film. Untuk mengetahui hal tersebut, analisis sentimen dapat digunakan untuk mengklasifikasikan kedalam sentimen negatif atau positif.  Didalam Tweet terkandung banyak ragam bahasa yang digunakan, yaitu diantaranya bahasa dalam bentuk tidak baku seperti bahasa slang, penyingkatan kata, dan salah eja. Oleh sebab itu dibutuhkan penanganan khusus pada Tweet. Pada penelitian ini digunakan kamus kata tidak baku dan normalisasi Levenshtein Distance untuk memperbaiki kata yang tidak baku menjadi kata baku dengan pengklasifikasian Naive Bayes. Berdasarkan hasil pengujian yang telah dilakukan didapatkan akurasi tertinggi dengan nilai accuracy, precision, recall, dan f-measure sebesar 98.33%, 96.77%, 100%, dan 98.36%.
+
+**Artikel (Paper):** [PDF](http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/629/247 "PDF")
+
+**Dataset:**
+[dataset_tweet_sentimen_opini_film.csv](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_tweet_sentiment_opini_film.csv "dataset_tweet_sentimen_opini_film.csv")
+
+Detail: Dataset terdiri dari 200 dokumen tweet terkait opini pada film. Tujuan dari penelitian ini adalah untuk mengetahui pengaruh kata tidak baku dalam sebuah dokumen terhadap sentimen.
