@@ -6,6 +6,10 @@
 ------------
 ### Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji
 
+>**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
+
+Lestari, A.R.T., Perdana, R.S., & Fauzi, M.A., (2017). Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1718-1724. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/627
+
 **Abstrak**
 
 Analisis sentimen merupakan cabang dari text mining, fokus utamanya adalah menganalisa dokumen teks. Dokumen teks terkadang mengandung unsur non-tekstual, salah satunya emoji. Emoji merupakan simbol grafis Unicode berupa gambar untuk mengekspresikan perasaan seseorang. Algoritme yang digunakan dalam penelitian ini adalah Naïve Bayes dengan pembaharuan berupa penambahan pembobotan non-tekstual (emoji). Hasil dari pembobotan tekstual dan non tekstual yang dinormalisasi dengan metode Min-max digabungkan disertai nilai konstanta tertentu sehingga menghasilkan sentimen positif maupun negatif. Data diambil dari Twitter tentang Pilkada DKI 2017 sebanyak 900 data tweet. Dari hasil pengujian akurasi, diperoleh 68,52% untuk kondisi pembobotan tekstual, 75,93% untuk pembobotan non-tesktual, dan 74,81% untuk kondisi penggabungan dengan nilai konstanta 0,5 untuk tekstual dan 0,5 untuk non-tekstual. Dari hasil pengujian pengaruh pembobotan non-tesktual disimpulkan bahwa pembobotan non-tekstual berpengaruh terhadap akurasi dan pengklasifikasian, dengan komposisi konstanta pengali terbaik ketika α=0,4 dan β=0,6 sampai dengan α=0,1 dan β=0,9.
@@ -19,13 +23,13 @@ Detail: Dataset analisis sentimen dikumpulkan dari situs jejaring sosial Twitter
 - Mengganti emoticon yang ada dengan tag/penanda spesial seperti pada file [Master Emoji](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/master_emoji.csv "Master Emoji")
 - Pada penelitian ini, kami menghapus kata-kata yang terdapat pada file [Stopword](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/stopword_tweet_pilkada_DKI_2017.csv "Stopword")
 
->**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
-
-Lestari, A.R.T., Perdana, R.S., & Fauzi, M.A., (2017). Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1718-1724. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/627
-
 ------------
 
 ### Analisis Sentimen Tingkat Kepuasan Pengguna Penyedia Layanan Telekomunikasi Seluler Indonesia Pada Twitter Dengan Metode Support Vector Machine dan Lexicon Based Features
+
+>**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
+
+Rofiqoh, U., Perdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Tingkat Kepuasan Pengguna Penyedia Layanan Telekomunikasi Seluler Indonesia Pada Twitter Dengan Metode Support Vector Machine dan Lexicon Based Features. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1725-1732. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/628
 
 **Abstrak**
 
@@ -42,14 +46,12 @@ Detail: Dataset analisis sentimen dikumpulkan dari situs jejaring sosial Twitter
 - Mengganti @mention pengguna dengan tag `<USER_MENTION>`
 - Mengganti nama produk dengan tag `<PRODUCT_NAME>`
 
+------------
+### Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine
 
 >**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
 
-
-Rofiqoh, U., Perdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Tingkat Kepuasan Pengguna Penyedia Layanan Telekomunikasi Seluler Indonesia Pada Twitter Dengan Metode Support Vector Machine dan Lexicon Based Features. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 1(12), 1725-1732. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/628
-
-------------
-### Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine
+Luqyana, W., Cholissodin, I., & Perdana, R.S. (2018). Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 2(11), 4704-4713. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/3051
 
 **Abstrak**
 
@@ -65,11 +67,5 @@ Detail: Dataset analisis sentimen dikumpulkan dari komentar sosial media Instagr
 ``` 
 (?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9-_]+) 
 ```
-
-
->**Dataset ini tersedia untuk penggunaan pribadi, tetapi jika Anda ingin mempublikasikan artikel ilmiah, publikasi jurnal, atau seminar dengan menggunakan dataset ini, maka Anda harus mengutip publikasi di bawah ini:**
-
-
-Luqyana, W., Cholissodin, I., & Perdana, R.S. (2018). Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer, 2(11), 4704-4713. Diambil dari http://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/3051
 
 ------------
