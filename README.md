@@ -2,7 +2,7 @@
 1. [Dataset sentimen Twitter Pilkada DKI 2017](#analisis-sentimen-tentang-opini-pilkada-dki-2017-pada-dokumen-twitter-berbahasa-indonesia-menggunakan-naïve-bayes-dan-pembobotan-emoji "Dataset sentimen Twitter Pilkada DKI 2017")
 2. [Dataset sentimen Twitter layanan telekomunikasi Indonesia](#analisis-sentimen-tingkat-kepuasan-pengguna-penyedia-layanan-telekomunikasi-seluler-indonesia-pada-twitter-dengan-metode-support-vector-machine-dan-lexicon-based-features "Dataset sentimen Twitter layanan telekomunikasi Indonesia")
 3. [Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
-4. [Dataset sentimen Twitter tayangan televisi]
+4. [Dataset sentimen Twitter tayangan televisi](#analisis-sentimen-terhadap-tayangan-televisi-berdasarkan-opini-masyarakat-pada-media-sosial-twitter-menggunakan-metode-k-nearest-neighbor-dan-pembobotan-jumlah-retweet "Dataset sentimen Twitter tayangan televisi")
 
 ------------
 ### Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji
