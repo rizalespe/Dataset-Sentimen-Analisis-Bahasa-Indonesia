@@ -3,7 +3,7 @@
 2. [Dataset sentimen Twitter layanan telekomunikasi Indonesia](#analisis-sentimen-tingkat-kepuasan-pengguna-penyedia-layanan-telekomunikasi-seluler-indonesia-pada-twitter-dengan-metode-support-vector-machine-dan-lexicon-based-features "Dataset sentimen Twitter layanan telekomunikasi Indonesia")
 3. [Dataset sentimen komentar Instagram Cyberbullying](#analisis-sentimen-cyberbullying-pada-komentar-instagram-dengan-metode-klasifikasi-support-vector-machine "Dataset sentimen komentar Instagram Cyberbullying")
 4. [Dataset sentimen Twitter tayangan televisi](#analisis-sentimen-terhadap-tayangan-televisi-berdasarkan-opini-masyarakat-pada-media-sosial-twitter-menggunakan-metode-k-nearest-neighbor-dan-pembobotan-jumlah-retweet "Dataset sentimen Twitter tayangan televisi")
-
+5. [Dataset sentimen Twitter opini film](#analisis-sentimen-tentang-opini-film-pada-dokumen-twitter-berbahasa-indonesia-menggunakan-naive-bayes-dengan-perbaikan-kata-tidak-baku "Dataset sentimen Twitter opini film")
 ------------
 ### Analisis Sentimen Tentang Opini Pilkada DKI 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji
 
